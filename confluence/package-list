@@ -1,0 +1,10 @@
+au.com.agiledigital.idea_search
+au.com.agiledigital.idea_search.blueprints
+au.com.agiledigital.idea_search.dao
+au.com.agiledigital.idea_search.helpers
+au.com.agiledigital.idea_search.listener
+au.com.agiledigital.idea_search.macros
+au.com.agiledigital.idea_search.macros.transport
+au.com.agiledigital.idea_search.model
+au.com.agiledigital.idea_search.service
+au.com.agiledigital.idea_search.servlet
